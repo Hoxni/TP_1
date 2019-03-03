@@ -13,7 +13,7 @@ import sample.shape1d.Segment;
 import sample.shape2d.*;
 
 import static sample.Utils.*;
-import static sample.Utils.ShapeType.*;
+import static sample.ShapeType.*;
 
 public class Initializer{
     private static Shape shape;
